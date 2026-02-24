@@ -1,0 +1,21 @@
+=== BASELINE ENUMERATION ===
+
+User:
+abdi104
+
+IP Address:
+10.0.2.15
+
+Listening Services:
+- SSH (0.0.0.0:22)
+- Local DNS stub (127.0.0.53:53)
+- DHCP client
+
+Firewall:
+UFW not installed
+
+Observations:
+- SSH exposed to all interfaces
+- No host-based firewall active
+- Password authentication likely enabled
+- No brute-force protection configured
